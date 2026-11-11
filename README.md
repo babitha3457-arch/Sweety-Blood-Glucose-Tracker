@@ -126,3 +126,19 @@ https://github.com/babitha3457-arch/Sweety-Blood-Glucose-Tracker
 **Babitha M**
 
 BCA Graduate
+
+
+
+
+## Notes
+
+### Assumptions
+- Each user can manage only their own glucose readings.
+- A maximum of four readings is allowed per day.
+- Glucose values must be whole numbers between 40 and 600 mg/dL.
+- Future dates are not allowed.
+
+### Future Improvements
+- Add graphical charts to visualize glucose trends.
+- Implement automated backend and frontend tests.
+- Improve dashboard design and mobile responsiveness.
